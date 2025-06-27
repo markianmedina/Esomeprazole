@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="HKGzjyLSG6qgB88k_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Esomeprazole - Uses, indications, contraindications, adverse effects, and limits</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Esomeprazole_-_Uses,_indications,_contraindications,_adverse_effects,_and_limits_ORG">
+    <organization identifier="Esomeprazole_-_Uses,_indications,_contraindications,_adverse_effects,_and_limits_ORG">
+      <title>Esomeprazole - Uses, indications, contraindications, adverse effects, and limits</title>
+      <item identifier="Esomeprazole_SCO" isvisible="true" identifierref="_HKGzjyLSG6qgB88k_course_id_RES">
+        <title>Esomeprazole - Uses, indications, contraindications, adverse effects, and limits</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_HKGzjyLSG6qgB88k_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6I0ZjDiE3NC_80_P_249_0_1483_1080.jpg" />
+      <file href="mobile/5Wzr3iv0FQj_80_P_301_223_1467_916.jpg" />
+      <file href="mobile/6DEgM0LuvCw.png" />
+      <file href="mobile/6rJVFTAlezt.png" />
+      <file href="mobile/6NVuhnFPVkf.png" />
+      <file href="mobile/5xFHxKlZjL7.png" />
+      <file href="mobile/6lfuZZ6fVi8_P_78_0_467_696.png" />
+      <file href="mobile/62fbIsGbNcA.png" />
+      <file href="mobile/63fDrPgeRdr.png" />
+      <file href="mobile/6Fp53APxdL1.png" />
+      <file href="mobile/6FuNOJC8R5u.png" />
+      <file href="mobile/5ttkdI11yW7.png" />
+      <file href="mobile/6asSnuGRb3M.png" />
+      <file href="mobile/6DAR1CIvjNy.png" />
+      <file href="mobile/6kEeLx8H4JF.png" />
+      <file href="mobile/6drqVXWCWi4.png" />
+      <file href="mobile/6bcGWsDZlUo.png" />
+      <file href="mobile/62fbIsGbNcA_Y.png" />
+      <file href="mobile/6FDVBfSPe2v.png" />
+      <file href="mobile/6gfz9LwYuhD.png" />
+      <file href="mobile/5rwVfnUFjmO.png" />
+      <file href="mobile/5X6U7kEumo8_80_P_228_61_1444_1800.jpg" />
+      <file href="mobile/6pKsMLsMd6N_80_P_253_12_1471_1849.jpg" />
+      <file href="mobile/5r4hJGwdnqO_80_P_241_-3_1461_1865.jpg" />
+      <file href="mobile/5zIjkxuZWO4_80_P_0_22_1688_1839.jpg" />
+      <file href="mobile/5xwApqydZab_80_P_401_153_1292_1616.jpg" />
+      <file href="mobile/6gDNnCLOLll_P_0_157_2048_1097.jpg" />
+      <file href="mobile/6oe9Wv3kxz7_B10_C-10_P_0_0_460_567.png" />
+      <file href="mobile/6IZZREeSHfM_P_226_75_371_277.png" />
+      <file href="mobile/5noqoU1NQE3.png" />
+      <file href="mobile/6qOEkD7WOMJ.png" />
+      <file href="mobile/6rIHjasHe9c.png" />
+      <file href="mobile/6T1gQglpmUd.png" />
+      <file href="mobile/6pppwyXO2gC_80_P_35_149_1480_1570.jpg" />
+      <file href="mobile/5a3F1lJAQYh_80.jpg" />
+      <file href="mobile/5swM1lLGmDU_80_P_309_131_1738_1322.jpg" />
+      <file href="mobile/5hUlDT14FJt_80_P_199_0_1806_1365.jpg" />
+      <file href="mobile/5p6qIdBOxMN.png" />
+      <file href="mobile/60SVKl8kg7f.png" />
+      <file href="mobile/6bM35nlnVjp.png" />
+      <file href="mobile/6nFUsu1vc3S.png" />
+      <file href="mobile/5bw6Bln3img.png" />
+      <file href="mobile/5akzRgskKvL.png" />
+      <file href="mobile/5s5S9yVff87.png" />
+      <file href="mobile/6oJVNvqo7mq.png" />
+      <file href="mobile/6KvAQCRzk8A.png" />
+      <file href="mobile/6qcQ3oRMuem.png" />
+      <file href="mobile/6LEV4BftAc8.png" />
+      <file href="mobile/6BBWzONfTM0_RB2BDE5.png" />
+      <file href="mobile/6Iw3H4N9a9C.png" />
+      <file href="mobile/6M2ueiSTpxs.png" />
+      <file href="mobile/64JdrqBmpHM_X_P_0_0_496_738.png" />
+      <file href="mobile/6mriubwR6md_X_80_P_0_76_1703_1300.jpg" />
+      <file href="story_content/report.html" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6CXcoSj0moz.png" />
+      <file href="mobile/txt__default_6UEF0w9f4GA.png" />
+      <file href="mobile/txt__default_5aIC4y5Ysqg.png" />
+      <file href="mobile/txt__default_5j1auqlvKz9.png" />
+      <file href="mobile/txt__default_6I52xRtrVFS.png" />
+      <file href="mobile/txt__default_5z1ur4BiSvG.png" />
+      <file href="mobile/txt__default_5zvaHHiVllo.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aHlP2Kgo57.js" />
+      <file href="html5/data/js/5btYJAWkrT9.js" />
+      <file href="html5/data/js/5bWRUeUwtbD.js" />
+      <file href="html5/data/js/5dYpzFPslXZ.js" />
+      <file href="html5/data/js/5hP5wQ1uuDx.js" />
+      <file href="html5/data/js/5mfc7TP56AU.js" />
+      <file href="html5/data/js/5niU3t0zCSb.js" />
+      <file href="html5/data/js/5s35cDozYRQ.js" />
+      <file href="html5/data/js/5V0fERTvTEN.js" />
+      <file href="html5/data/js/5VIFJsBCUxE.js" />
+      <file href="html5/data/js/5vkW0CCNyc7.js" />
+      <file href="html5/data/js/5xVhcPqyFbL.js" />
+      <file href="html5/data/js/64eYWiSbMVx.js" />
+      <file href="html5/data/js/67sdEvjKkNq.js" />
+      <file href="html5/data/js/6c6t3zQ7Hvi.js" />
+      <file href="html5/data/js/6cTRFcStq96.js" />
+      <file href="html5/data/js/6dMC3p5LQkF.js" />
+      <file href="html5/data/js/6EkUMQc3OJB.js" />
+      <file href="html5/data/js/6eN1RLiE3tO.js" />
+      <file href="html5/data/js/6fODzO66iEX.js" />
+      <file href="html5/data/js/6Fq6jvexTuV.js" />
+      <file href="html5/data/js/6gMk4qIAoPh.js" />
+      <file href="html5/data/js/6GqfDTwABdC.js" />
+      <file href="html5/data/js/6gVitmXLJMH.js" />
+      <file href="html5/data/js/6IpdebuIAWw.js" />
+      <file href="html5/data/js/6j8MI4vszzn.js" />
+      <file href="html5/data/js/6kFp3PkH2Yn.js" />
+      <file href="html5/data/js/6lz7FLjA1Gf.js" />
+      <file href="html5/data/js/6MgOZnpJ6eb.js" />
+      <file href="html5/data/js/6mHwDOKegvX.js" />
+      <file href="html5/data/js/6mYXvb4A2Gh.js" />
+      <file href="html5/data/js/6NfemX3zGSm.js" />
+      <file href="html5/data/js/6ogo7eTzP90.js" />
+      <file href="html5/data/js/6P1DBw9pMtD.js" />
+      <file href="html5/data/js/6P2VXNhz9DP.js" />
+      <file href="html5/data/js/6R07u9gWquw.js" />
+      <file href="html5/data/js/6SbqkaSBOqK.js" />
+      <file href="html5/data/js/6UOfPMF6fQu.js" />
+      <file href="html5/data/js/6YZfw5DxrYu.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
